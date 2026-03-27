@@ -1,4 +1,5 @@
-![AI Console Assistant Demo](demo.jpg)
+![Main Screen](demo_main.jpg)
+![Reasoning Process](demo.jpg)
 # vibe-ai-assistant
 Консольный ассистент на Python для работы с OpenAI/ProxyAPI с поддержкой Reasoning моделей
 
